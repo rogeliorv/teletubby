@@ -7,14 +7,14 @@ export const defaultMeta = {
   siteName: 'Teletubby',
   description: 'A telegram webapp starter with NextJS',
   /** Without additional '/' on the end */
-  url: 'https://teletubby.vercel.app',
+  url: 'https://teletubbybot.vercel.app',
   type: 'website',
   robots: 'follow, index',
   /**
    * No need to be filled, will be populated with openGraph function
    * If you wish to use a normal image, just specify the path below
    */
-  image: 'https://teletubby.vercel.app/assets/images/canoe2.jpeg',
+  image: 'https://teletubbybot.vercel.app/assets/images/canoe2.jpeg',
 };
 
 type SeoProps = {

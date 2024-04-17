@@ -23,7 +23,7 @@ const getChangeFrequency = (path, defaultFrequency) => {
  * @see https://github.com/iamvishnusankar/next-sitemap#readme
  */
 module.exports = {
-  siteUrl: 'https://teletubby.vercel.app',
+  siteUrl: 'https://teletubbybot.vercel.app',
   changefreq: 'daily',
   generateRobotsTxt: true,
   robotsTxtOptions: {

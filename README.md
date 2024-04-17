@@ -83,7 +83,7 @@ This starter is using [conventional commits](https://www.conventionalcommits.org
 
 - Create a new bot using the [BotFather](https://telegram.me/BotFather)
 - Add your bot token as an env var in .env file to TELEGRAM_BOT_TOKEN
-- Get a publicly visible URL, you can use ngrok or deploy to vercel - Once you have a public URL like: https://some.ngrok-free.app or https://teletubby.vercel.app add it to your NEXT_PUBLIC_APP_URL in your .env vars
+- Get a publicly visible URL, you can use ngrok or deploy to vercel - Once you have a public URL like: https://some.ngrok-free.app or https://teletubbybot.vercel.app add it to your NEXT_PUBLIC_APP_URL in your .env vars
 - Register your webhook to telegram using (https://api.telegram.org/<YOUR_TOKEN>/setWebhook?url=<YOUR_URL>/api/telegramWebhook)
 - Go to your bot and send it a message
 - Click the launch button if you want to see your launched webapp within telegram
