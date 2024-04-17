@@ -1,0 +1,28 @@
+{
+  "company": {
+    "name": "Telegram Webapp",
+    "logo": "/assets/images/logo.png"
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Home",
+        "href": "/",
+        "content": ""
+      },
+      {
+        "name": "Github",
+        "href": "https://github.com/rogeliorv",
+        "content": ""
+      },
+      {
+        "name": "About Teletubby",
+        "href": "/",
+        "content": ""
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/rogeliorv"
+    }
+  }
+}
